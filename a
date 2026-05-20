@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <title>Despre</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <h1>Despre mine</h1>
+    <nav>
+        <a href="index.html">Acasă</a>
+        <a href="despre.html">Despre</a>
+        <a href="proiecte.html">Proiecte</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <p>
+        Salut! Mă numesc Boiangiu George Alin și sunt pasionat/ă de programare și tehnologie.  
+        În prezent, învăț HTML, CSS și JavaScript pentru a crea site-uri web interactive și frumoase.
+    </p>
+    <p>
+        Acest proiect reprezintă primul meu website public pe GitHub Pages.  
+        Scopul său este să arate câteva dintre realizările mele și să îmi exersez abilitățile de programator.
+    </p>
+</body>
+</html>
